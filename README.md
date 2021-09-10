@@ -1,4 +1,13 @@
-# Budget Tracker Starter Code
+# Installation 
+
+To start using this repository, clone the repo and `run npm i` in the command line to install dependencies. Run `npm start` to start the Express.js server on localhost:3001.
+
+# Usage
+
+To use the budget tracker, simply provide a transaction name and transaction amount, then click "add funds" or "subtract funds". To download the application to your desktop, click on the "Install Budget Tracker" icon found in the right-hand side of the address bar of your Google Chrome browser.
+
+
+# Budget Tracker 
 
 A simple budget tracker PWA featuring offline support.
 It can be downloaded to your desktop and mobile devices.
